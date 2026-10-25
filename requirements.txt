@@ -1,7 +1,6 @@
-# Q4
-pandas
-scikit-learn
-xgboost
-imbalanced-learn
+scikit-learn==1.6.1
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+pandas==2.2.3
 streamlit
 joblib
